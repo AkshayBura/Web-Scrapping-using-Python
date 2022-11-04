@@ -1,4 +1,4 @@
-# Web-Scrapping-using-Python-
+# Web-Scrapping-using-Python
 Created a simple application using tkinter which will be retrieving product details from Amazon and Flipkart which will be useful in comparing. 
 
 In this project I have scrapped the details in this Project using BeautifulSoup module and created a gui using Tkinter. 
